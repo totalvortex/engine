@@ -1,0 +1,13 @@
+# Blender MTL File: 'shapes.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.413867 0.345142 0.161121
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/marco/desarrollo/bullet/totalvortex/terrain.png

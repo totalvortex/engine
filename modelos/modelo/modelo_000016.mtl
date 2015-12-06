@@ -1,0 +1,12 @@
+# Blender MTL File: 'spidermanwalking.blend'
+# Material Count: 1
+
+newmtl base_mesh
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.840949 0.000603 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd texturamodelo.png

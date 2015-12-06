@@ -1,0 +1,14 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl SCG_build9_base
+Ns 194.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/marco/desarrollo/bullet/totalvortex/edificio.png
+map_Bump /tmp/blender_uP0nIR/Worn_Brown_Brickwork_Height_Map.png

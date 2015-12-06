@@ -1,0 +1,79 @@
+# Blender MTL File: 'vehiculo.blend'
+# Material Count: 7
+
+newmtl Material_#4505
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.467451 0.467451 0.467451
+Ks 0.449020 0.449020 0.449020
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/marco/desarrollo/bullet/totalvortex/modelos/tanque/camuflaje.png
+
+newmtl Material_#4510
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.467451 0.467451 0.467451
+Ks 0.449020 0.449020 0.449020
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/marco/desarrollo/bullet/totalvortex/modelos/tanque/camuflaje.png
+
+newmtl Material_#4515
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.467451 0.467451 0.467451
+Ks 0.449020 0.449020 0.449020
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/marco/desarrollo/bullet/totalvortex/modelos/tanque/camuflaje.png
+
+newmtl Material_#4516
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.467451 0.467451 0.467451
+Ks 0.449020 0.449020 0.449020
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/marco/desarrollo/bullet/totalvortex/modelos/tanque/camuflaje.png
+
+newmtl Material_#4517
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.467451 0.467451 0.467451
+Ks 0.449020 0.449020 0.449020
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/marco/desarrollo/bullet/totalvortex/modelos/tanque/camuflaje.png
+
+newmtl Material_#4518
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.467451 0.467451 0.467451
+Ks 0.449020 0.449020 0.449020
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/marco/desarrollo/bullet/totalvortex/modelos/tanque/camuflaje.png
+
+newmtl Material_#4519
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.467451 0.467451 0.467451
+Ks 0.449020 0.449020 0.449020
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/marco/desarrollo/bullet/totalvortex/modelos/tanque/camuflaje.png

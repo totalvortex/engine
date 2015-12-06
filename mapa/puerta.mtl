@@ -1,0 +1,22 @@
+# Blender MTL File: 'kitspace1.blend'
+# Material Count: 2
+
+newmtl _WhiteSmoke_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.768627 0.768627
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/marco/desarrollo/bullet/totalvortex/texturapuerta.png
+
+newmtl _WhiteSmoke__NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.768627 0.768627
+Ks 0.165000 0.165000 0.165000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/marco/desarrollo/bullet/totalvortex/texturacolumna.png
